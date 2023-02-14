@@ -1,6 +1,2 @@
-# editors
-*.swp
-*~
-
-# build
-/build*/
+# ignore ALL build files in any directory.
+build/
